@@ -1,0 +1,15 @@
+{
+  "name": "R7FrontendTest",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "connect": "~3.1.1",
+    "serve-static": "~1.5.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "vanilla-framework": "^1.8.1"
+  }
+}
